@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta charset="utf-8">
+	<title>mon CV</title>
+</head>
+<body>
+
+	<h1><strong>Xavier Latorre</strong></h1>
+	<p>Développeur Java Full Stack</p>
+
+	<img src=""><br/>
+	<a href="photo.html">ma photo </a>
+
+<h2>Mon Experience</h2>
+<ol>
+	<h3><li>Professeur de mathématiques</li></h3>
+	<i><font size="0"><p>Mars 2018 - Juillet 2019     Calais</p></font></i>
+	<p>Préparation de cours</p>
+	<p>Evalutation des élèves</p>
+	<p>Suivi particulier des élèves</p>
+	
+
+	<h3><li>Ingenieur stagiaire développement continue</li></h3>
+	<i><font size="0"><p>Avril 2017 - Septembre 2017     Merville</p></font></i>
+	<p>Diagnostic du laboratoire</p>
+	<p>Mise en place du Lean Management</p>
+	<p>Informatisation du laboratoire</p>
+	
+
+	<h3><li>Ingénieur junior de recherche</li></h3>
+	<i><font size="0"><p>Mars 2016 - Juillet 2016     Gardanne</p></font></i>
+	<p>Etat de l'art</p>
+	<p>Modélisation d'un système</p>
+	<p>Tests et modélisation de solutions</p>
+	<p>Rendu de rapport</p>
+
+</ol>
+
+<h2>Mes Compétences</h2>
+<ol>
+	<strong><li>Competences informatiques</li></strong>
+	<p>Java</p>
+	<p>Html</p>
+	<p>Css</p>
+	<p>C++</p>
+	<p>Vba</p>
+	<strong><li>Competences Transverses</li></strong>
+	<p>Gestion de projets</p>
+	<p>Lean management</p>
+	<p>Redaction de rapports et présentations</p>
+</ol>
+<h2>Ma Formation</h2>
+<ol>
+	<li>Diplôme ingénieur microélectronique informatique et nouvelles technologies</li>
+	<i><font size="0"><p>Septembre 2014 - Novembre 2017     Gardanne</p></font></i>
+	<p>Informatique industrielle et gestoin de production</p>
+
+	<li>Classes préparatoires aux grandes écoles</li>
+	<i><font size="0"><p>Septembre 2012 - Juillet 2014     Lille et Dunkerque</p></font></i>
+	<p>Mathématiques, Physique et Sciences de l'ingénieur</p>
+
+	<li>Baccalauréat scientifique</li>
+	<i><font size="0"><p>Septembre 2009 - Juillet 2012     Calais</p></font></i>
+	<p>Mention très bien</p>
+</ol>
+
+</body>
+</html>
